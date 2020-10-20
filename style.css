@@ -1,6 +1,10 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    background: #2b2424;
+    line-height: 1.42;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #5830b6;
 }
 
 /*      Header     */
