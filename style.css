@@ -1,0 +1,156 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: #2b2424;
+}
+
+/*      Header     */
+
+.nav__link{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+}
+
+.contacts__phone{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+.contacts__schedule{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+}
+
+ /*      Page-countent     */
+.route__title{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.route__description{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+.route__btn{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+
+/*   Services   */
+
+/*    Shares    */
+
+
+/*    About-us    */
+.about-us__title{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+    display: flex;
+    align-items: flex-end;
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+.about-us__description{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    
+    color: #060606;
+}
+.about-us__btn{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+
+/*    Basement    */
+
+.basement__link{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+.contacts-two__schedule{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    
+    color: #9A9A9A;
+}
+.contacts-two__phone{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
